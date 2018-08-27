@@ -1,2 +1,2 @@
-file: hellow_world.rb
+file: hello_world.rb
 puts "Hello World!"
